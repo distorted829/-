@@ -1,0 +1,23 @@
+.custom-table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.custom-table thead th {
+    background-color: #ffd900; 
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #000; 
+}
+
+.custom-table thead td {
+    background-color: #ffd900; 
+    padding: 5px;
+    border-bottom-color: #ffd900;
+}
+
+.custom-table td {
+    padding: 3px;
+    text-align: center;
+    border: 1px solid #000;
+}

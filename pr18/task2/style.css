@@ -1,0 +1,29 @@
+
+table {
+    width: 31%;
+    margin-bottom: 10px;
+}
+
+thead th {
+    padding: 3px;
+    text-align: left;
+    border: 1px solid #ddd; 
+}
+
+
+td {
+    padding: 3px;
+    text-align: left;
+    border: 1px solid #ddd; 
+}
+
+.collapse-table {
+    border: 1px solid #ccc; 
+    border-collapse: collapse;
+}
+
+
+.separate-table {
+    border: 1px solid #ccc; 
+    border-collapse: separate;
+}

@@ -1,0 +1,14 @@
+.custom-table {
+    width: 60%;
+    border-collapse: separate;
+    padding: 10px;
+    margin: 5px;
+    border-style: double; 
+}
+
+.custom-table td {
+    padding: 5px;
+    text-align: left;
+    border: 2px solid #aa0000; 
+    margin: 10px;
+}

@@ -1,0 +1,17 @@
+.text-block {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.line-height-100 {
+    line-height: 100%;
+}
+
+.line-height-150 {
+    line-height: 150%;
+}
+
+.line-height-200 {
+    line-height: 200%;
+}

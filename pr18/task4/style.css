@@ -1,0 +1,26 @@
+.resource-table {
+    width: 50%;
+    border-collapse: collapse;
+    border-style: double; 
+}
+
+.resource-table thead th {
+    background-color: #cccccc; 
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #3d3d3d; 
+}
+
+
+.resource-table tbody th {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #3d3d3d; 
+}
+
+
+.resource-table td {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #3d3d3d; 
+}

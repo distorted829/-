@@ -1,0 +1,43 @@
+table {
+    text-align: center;
+    border-collapse:collapse;
+    border: 1px solid #6d6d6d; 
+    color: black; 
+    background: #fff;
+    width: 600px;
+    height: 125px;
+}
+
+thead th {
+    background-color: #FF0000; 
+    color: white; 
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid #6d6d6d; 
+
+}
+
+tbody th {
+    background-color: #009999; 
+    color: white; 
+    padding: 5px;
+    text-align: left;
+    font-weight: bold;
+    border: 2px solid #6d6d6d; 
+
+}
+
+td {
+    border: 2px solid #6d6d6d; 
+    padding: 5px;
+    text-align: center;
+}
+
+caption {
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+

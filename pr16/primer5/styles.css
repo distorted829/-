@@ -1,0 +1,15 @@
+p:nth-of-type(2) {
+    letter-spacing: -1px;
+}
+
+p:nth-of-type(3) {
+    letter-spacing: 1px;
+}
+
+p:nth-of-type(4) {
+    word-spacing: -1px;
+}
+
+p:nth-of-type(5) {
+    word-spacing: 1px;
+}

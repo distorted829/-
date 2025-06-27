@@ -1,0 +1,32 @@
+.custom-table {
+    width: 70%; 
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: "Lucida Sans Unicode", sans-serif; 
+}
+
+.custom-table thead th {
+    background-color: #2a58ea; 
+    color: #fff; 
+    padding: 5px;
+    text-align: left;
+    border-bottom: 2px solid #6678b1; 
+}
+
+.custom-table td {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #0be052; 
+}
+
+.custom-table tr:nth-child(even) td {
+    background-color: #e8edff; 
+}
+
+.custom-table tr:nth-child(odd) td {
+    background-color: #b9c6f7; 
+}
+
+.custom-table tr:hover td {
+    color: #ea2a36; 
+}

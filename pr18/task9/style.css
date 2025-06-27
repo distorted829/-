@@ -1,0 +1,31 @@
+.custom-table {
+    width: 40%;
+    border-collapse: collapse;
+}
+
+.custom-table thead th {
+    background-color: maroon; 
+    color: white; 
+    padding: 5px;
+    text-align: left;
+    border: 1px solid maroon; 
+}
+
+.custom-table tbody td {
+    background-color: #fffacd;  
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #fffacd; 
+}
+ 
+.custom-table tbody th {
+    border: 1px solid maroon;
+    background-color: maroon; 
+}
+
+.custom-table td {
+    background-color: #fffacd;  
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #fffacd; 
+}

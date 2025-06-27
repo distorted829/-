@@ -1,0 +1,25 @@
+.custom-table {
+    width: 70%; 
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: "Lucida Sans Unicode", sans-serif; 
+}
+
+.custom-table thead th { 
+    color: #039; 
+    padding: 5px;
+    text-align: left;
+    border-bottom: 2px solid #6678b1; 
+}
+
+
+.custom-table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #6678b1; 
+    color: #669; 
+}
+
+.custom-table tr:hover td {
+    color: #6699ff; 
+}
