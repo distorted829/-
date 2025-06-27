@@ -1,0 +1,29 @@
+UL#menu {
+    margin: 0; padding: 0; /* Убираем отступы */
+  }
+  UL#menu > LI {
+    list-style: none; /* Убираем маркеры списка */
+    width: 100px; /* Ширина элемента в пикселах */
+    background: #b3d9d2; /* Цвет фона */
+    color: #333; /* Цвет текста */
+    padding: 5px; /* Поля вокруг текста */
+    font-family: Arial, sans-serif; /* Рубленый шрифт */
+    font-size: 90%; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    float: left; /* Располагаем элементы по горизонтали */
+  }
+  LI > UL {
+    list-style: none; /* Убираем маркеры списка */
+    margin: 0; padding: 0; /* Убираем отступы вокруг элементов списка */
+    border-bottom: 1px solid #666; /* Граница внизу */
+    padding-top: 5px; /* Добавляем отступ сверху */
+  }
+  LI > A {
+    display: block; /* Ссылки отображаются в виде блока */
+    font-weight: normal; /* Нормальное начертание текста */
+    font-size: 90%; /* Размер шрифта */
+    background: #fff; /* Цвет фона */
+    border: 1px solid #666; /* Параметры рамки */
+    border-bottom: none; /* Убираем границу снизу */
+    padding: 5px; /* Поля вокруг текста */
+  }  
